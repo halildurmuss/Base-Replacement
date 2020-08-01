@@ -1,4 +1,4 @@
-# Base-Replacement-in-C
+# Base-Replacement
 The program that converts numbers from one base to another.
 
 # Taban Değiştirme
